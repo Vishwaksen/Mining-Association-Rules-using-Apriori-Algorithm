@@ -14,7 +14,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Abinash
+ * @author Vishwaksen
  *
  */
 public class AssociationRuleMining {
